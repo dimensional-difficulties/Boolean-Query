@@ -1,6 +1,6 @@
 #pragma once
 #include<string>
-#include"line.h"
+#include"Line.h"
 using namespace std;
 struct Word
 {

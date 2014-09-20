@@ -1,5 +1,5 @@
 #pragma once
-#include"line.h"
+#include"Line.h"
 #include<string>
 using namespace std;
 struct LineList

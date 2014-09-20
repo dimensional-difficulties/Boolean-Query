@@ -1,9 +1,11 @@
 //(c)Copyright 2003 Thomas Fernandez
+//Edited in 2014 by Michael Kossin
 //All rights reserved.
 #pragma once
 #include <fstream> 
 #include <string>
-#include <stdlib.h>
+#include <cstdlib>
+#include <cstring>
 #include <vector>
 using namespace std;
 inline string toLower(const string & s)
